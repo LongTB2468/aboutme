@@ -79,13 +79,11 @@
 	<p style = "font-size: 40pt; color: 49FF33;">
          <em>Ha Long Bay!!!</em>
 	<meta charset = "utf-8">    
-   </head>
    <body>
       <p>
          Hạ Long Bay, in northeast Vietnam, is known for its emerald waters and thousands of towering limestone islands topped by rainforests. Junk boat tours and sea kayak expeditions take visitors past islands named for their shapes, including <span class = "dark">Stone Dog and Teapot islets.</span> The region is popular for scuba diving, rock climbing and hiking, particularly in mountainous <span class = "dark">Cát Bà National Park.</span> 
       </p>
     </body>
-   </head>
    <body>   
       <div><p><h2>	    
 	    Classes in Fall 2022   
@@ -107,8 +105,5 @@
 	    <li><a> CS 4395 </a></li>
 	    <li><a> Or W-course </a></li>
 	</h2></div>
-   </body>
-      </div>
-   </body>
 </html>
 
